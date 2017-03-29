@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 void main()
@@ -6,3 +7,4 @@ void main()
 	system("pause");
 }
 
+*/
